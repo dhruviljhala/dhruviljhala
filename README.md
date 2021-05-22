@@ -22,10 +22,9 @@
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 <br/>
-
-
-
 
 
 
@@ -33,22 +32,35 @@
 <a href="https://github.com/dhruviljhala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruviljhala&layout=compact&theme=radical" />
   </a>
-<a href="https://github.com/dhruviljhala">
+<!--<a href="https://github.com/dhruviljhala">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dhruviljhala&show_icons=true&theme=radical" alt="Dave's github stats"/>
+-->
 </a>
 <br/>
 <br/>
 <br/>
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+<h3> 🤝🏻 &nbsp;Achievements </h3> 
 
+<p align="left">
+<br>
+  <a href="https://www.hackerrank.com/dhruviljhala"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" /></a>&nbsp;
+  <a href="https://www.hackerearth.com/@dhruvilsinh1"><img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="HackerRank" /></a>&nbsp;
+<a href="https://www.coursera.org/user/0d3bd7855740336e4a6dc29ede013359"><img src="https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=Udemy&logoColor=white" alt="Coursera" /></a>&nbsp;
+
+  <br/> 
+<p>
+
+  
+  
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
 <p align="left">
 <br>
 <a href="https://www.linkedin.com/in/dhruvilsinh-jhala-451ab7179/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://www.instagram.com/alchemistic.dj/"><img src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://www.instagram.com/alchemistic.dj/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="mailto:dhruviljhala@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 <br/> 
