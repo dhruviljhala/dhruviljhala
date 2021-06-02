@@ -3,6 +3,8 @@
 <h1 align="left"><strong> Hello There, I'm <a href="https://sidbelbase.me">Dhruvilsinh Jhala.</a></strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
 </h1>
 
+<h1 align="left">Hello There, I'm <strong style="color:#C70039">Dhruvilsinh Jhala.</strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
+</h1>
 
 <br/>
 <h3> 🛠 &nbsp;Tech Stack</h3>
