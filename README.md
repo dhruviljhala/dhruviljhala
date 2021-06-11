@@ -41,7 +41,7 @@
 <br/>
 
 
-<h3> 🤝🏻 &nbsp;Achievements </h3> 
+<h3> 🤝🏻 &nbsp;Technical Work </h3> 
 
 <p align="left">
 <br>
