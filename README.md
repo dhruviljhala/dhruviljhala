@@ -1,6 +1,6 @@
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="160px" width="auto">
 
-<h1 align="left"><strong> Hello!, I'm <a href="">Dhruvilsinh Jhala.</a></strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
+<h1 align="left"><strong> Hello, I'm <a href="">Dhruvilsinh Jhala.</a></strong><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px">
 </h1>
 
 
